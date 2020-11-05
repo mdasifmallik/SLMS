@@ -1,0 +1,47 @@
+.mb{
+    margin-bottom: 40px;
+}
+
+
+.stat-icon i{
+    font-size: 50px !important;
+}
+
+.stat-digit{
+    font-size: 35px !important;
+    color: white !important;
+}
+
+.stat-text{
+    font-size: 16px !important;
+    color: white !important;
+}
+
+ul{
+	margin-bottom: 0;
+}
+
+li{
+	list-style: none;
+}
+
+.form-group>select{
+	display: block;
+	width: 100%;
+	height: calc(2.25rem + 2px);
+	padding: .375rem .75rem;
+	color: #495057;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.my_user{
+	font-size: 24px;
+    font-weight: bold;
+}
+
+.scroll_beauty{
+	overflow: scroll !important;
+}
